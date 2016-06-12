@@ -1,0 +1,1 @@
+# Hide-notification-bar-in-android-activity
